@@ -1,3 +1,5 @@
 step 1: Choose the pizza place
 Step 2: Choose your pizza
 Step 3: Order and enjoy!
+Step 4: Put leftovers in the fridge
+Step 5: Throw away Pizza box
